@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan Rifat</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="700" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
+<img align="right" alt="coding" width="500" height="350" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 
 - 🌱 I’m currently learning **React**
 
