@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=45&lines=Crafting+Innovative+Web+Solutions;Full+Stack+Developer+%7C+MERN+Stack;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
-![Header Image]([https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://i.ibb.co.com/BrhGvSG/1720521287271.jpg))
+![Header Image](https://i.ibb.co/BrhGvSG/1720521287271.jpg)
+
 ---
 
 ### 🧑‍💻 About Me
