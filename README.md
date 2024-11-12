@@ -1,5 +1,3 @@
-![Header Image](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
 <h1 align="center">Hello, I'm Mahmudul Hasan Rifat 👋</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Expert | Passionate Coder</h3>
 
@@ -7,11 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=45&lines=Crafting+Innovative+Web+Solutions;Full+Stack+Developer+%7C+MERN+Stack;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
+![Header Image]([https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://i.ibb.co.com/BrhGvSG/1720521287271.jpg))
 ---
 
 ### 🧑‍💻 About Me
-<img align="right" alt="coding" width="400" height="280" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" />
-
 - 🌱 Currently exploring advanced **React** and **Node.js**.
 - 💬 Love discussing **JavaScript**, **Backend Architectures**, and **Cloud Solutions**.
 - 📬 Reach me at **mahmudulhasanrifat220@gmail.com**
