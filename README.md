@@ -15,25 +15,29 @@
 
 Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Developer** specializing in the **MERN Stack**. With a knack for building innovative and efficient web solutions, I thrive on solving complex coding challenges and crafting seamless user experiences. From designing modern frontends to architecting robust backend systems, I am deeply committed to delivering excellence in every line of code.
 
-My journey as a developer is driven by an insatiable curiosity and love for technology. I continuously push my boundaries, explore new tools, and stay updated with the latest trends in the tech world. Collaboration, creativity, and problem-solving are at the heart of my work, and I take pride in contributing to impactful projects.
+👨‍💻 My journey as a developer is driven by an insatiable curiosity and love for technology. I continuously push my boundaries, explore new tools, and stay updated with the latest trends in the tech world. Collaboration, creativity, and problem-solving are at the heart of my work, and I take pride in contributing to impactful projects.
 
-When I'm not coding, you'll find me brainstorming ideas for new apps, exploring cloud technologies, or diving into coding challenges just for fun! I'm always excited to connect with like-minded individuals and share knowledge within the vibrant tech community. 🚀
+📚 When I'm not coding, you'll find me brainstorming ideas for new apps, exploring cloud technologies, or diving into coding challenges just for fun! I'm always excited to connect with like-minded individuals and share knowledge within the vibrant tech community.
 
-Let's create something amazing together! 😊
+🚀 Let's create something amazing together! 
 
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Currently exploring advanced **React** and **Node.js**.
-- 💬 Love discussing **JavaScript**, **Backend Architectures**, and **Cloud Solutions**.
+- 🌱 Currently exploring advanced **React**, **Node.js**, and diving into **Microservices Architectures**.
+- 💬 Love discussing **JavaScript**, **Backend Architectures**, **Cloud Solutions**, and **Scalable Systems Design**.
 - 📬 Reach me at **mahmudulhasanrifat220@gmail.com**
-- 🎯 Fun fact: I solve coding problems for fun!
+- 🎯 Fun fact: I solve coding problems for fun and love experimenting with **new technologies**.
+- 💡 Always curious to learn and implement cutting-edge tech in **real-world projects**.
+- 🌐 Strong believer in **open-source contributions** and enjoy collaborating with global developers.
+- ✨ My mantra: **"Code is art, and every line should be meaningful!"**
+- 🚴 Outside of coding, I enjoy cycling, reading tech blogs, and exploring nature.
 
 ---
 
 ### 🚀 Professional Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,express,nodejs,mongodb,mysql,postgres,git,linux,docker,aws,figma,tailwind,sass&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,git,linux,figma,tailwind&perline=9" alt="Skills" />
 </p>
 
 ---
