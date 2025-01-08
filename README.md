@@ -46,16 +46,16 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 
 <div align="center">
   <a href="https://github.com/rifat-mahmudul">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-mahmudul&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=282c34&title_color=ff5733&icon_color=1f80e5" alt="GitHub Stats" width="400" style="border-radius: 10px;"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-mahmudul&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
   </a>
   <a href="https://github.com/rifat-mahmudul">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-mahmudul&theme=radical&hide_border=true&background=282c34&ring=ff5733" alt="GitHub Streak" width="400" style="border-radius: 10px;"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-mahmudul&theme=transparent&hide_border=true" alt="GitHub Streak" width="400" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/rifat-mahmudul">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-mahmudul&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=282c34&title_color=ff5733&text_color=ffffff" alt="Top Languages" width="400" style="border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-mahmudul&langs_count=8&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="400" />
   </a>
 </p>
 
