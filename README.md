@@ -120,8 +120,17 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 ---
 
 ### 🐍 My Coding Journey
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <a href="https://github.com/Platane/snk">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    Just like the snake evolves with each move, I grow with every line of code, solving problems, and creating impactful solutions!
+  </em>
 </p>
 
 ---
