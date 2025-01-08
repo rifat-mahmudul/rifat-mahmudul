@@ -93,6 +93,16 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 
 ---
 
+### 📈 GitHub Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifat-mahmudul&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+  </a>
+</p>
+
+---
+
 ### 🐍 My Coding Journey
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
