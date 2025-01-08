@@ -37,7 +37,7 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 
 ### 🚀 Professional Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,git,linux,figma,tailwind&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,firebase,nodejs,mongodb,git,linux,figma,tailwind&perline=9" alt="Skills" />
 </p>
 
 ---
@@ -66,6 +66,18 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
   </a>
   <a href="mailto:mahmudulhasanrifat220@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/rifat-mahmudul" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/rifat67661" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/mahmudul_hasanrifat_1c19" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://mahmudulhasanrifat.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
