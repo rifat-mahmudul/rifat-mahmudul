@@ -89,7 +89,7 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 
 ---
 
-### 🏆 Achievements & Highlights
+### 🏆 **Achievements & Highlights**
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
