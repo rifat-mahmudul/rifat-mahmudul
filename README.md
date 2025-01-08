@@ -1,4 +1,7 @@
-<h1 align="center">Hello, I'm Mahmudul Hasan Rifat 👋</h1>
+<h1 align="center">
+  Hello, I'm Mahmudul Hasan Rifat 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="30px">
+</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Expert | Passionate Coder</h3>
 
 <p align="center">
@@ -6,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/BrhGvSG/1720521287271.jpg" alt="Header Image" width="100%" height="300px" />
+  <img src="[https://i.ibb.co/BrhGvSG/1720521287271.jpg](https://ibb.co.com/D9sQNQp"><img src="https://i.ibb.co.com/T4ptZtL/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)" alt="Header Image" width="100%" height="300px" />
 </p>
 
 ---
@@ -89,11 +92,11 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 
 ---
 
-### 🏆 **Achievements & Highlights**
+### 🏆 Achievements & Highlights
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rifat-mahmudul&theme=radical&no-frame=true&margin-w=20&column=5&rank=SECRET,SSS,SS,S,A" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rifat-mahmudul&theme=flat&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -101,7 +104,7 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 
 ### 📈 GitHub Contribution Graph
 
-<p align="center">
+<p>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifat-mahmudul&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="GitHub Contribution Graph" />
   </a>
