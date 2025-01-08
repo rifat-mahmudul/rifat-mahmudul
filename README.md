@@ -45,12 +45,28 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-mahmudul&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-mahmudul&theme=transparent&hide_border=true" alt="GitHub Streak" width="400" />
+  <a href="https://github.com/rifat-mahmudul">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-mahmudul&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+  </a>
+  <a href="https://github.com/rifat-mahmudul">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-mahmudul&theme=transparent&hide_border=true" alt="GitHub Streak" width="400" />
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-mahmudul&langs_count=8&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="400" />
+  <a href="https://github.com/rifat-mahmudul">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-mahmudul&langs_count=8&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="400" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifat-mahmudul&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+  </a>
 </p>
 
 ---
