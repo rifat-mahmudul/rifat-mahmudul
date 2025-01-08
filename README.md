@@ -23,44 +23,6 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 
 ---
 
-### 🌟 My Projects
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- Card 1 -->
-  <a href="https://github.com/rifat-mahmudul/e-commerce-app" target="_blank" style="text-decoration: none; width: 300px; border: 2px solid #2d3748; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-    <img src="https://i.imgur.com/EcommerceAppMockup.png" alt="E-Commerce App" width="100%" height="200" style="object-fit: cover; border-bottom: 2px solid #2d3748;" />
-    <div style="padding: 15px; background-color: #2d3748; color: white; text-align: center; border-radius: 0 0 15px 15px;">
-      <h3 style="margin-bottom: 10px; font-size: 1.5rem;">E-Commerce App</h3>
-      <p style="font-size: 1rem; margin-bottom: 15px;">A modern e-commerce platform built with React, Redux, Node.js, and MongoDB. Features include user authentication, product search, and admin dashboard.</p>
-      <a href="https://github.com/rifat-mahmudul/e-commerce-app" target="_blank" style="text-decoration: none; background-color: #38b2ac; padding: 8px 20px; color: white; border-radius: 5px; font-weight: bold;">Explore Code</a>
-    </div>
-  </a>
-
-  <!-- Card 2 -->
-  <a href="https://github.com/rifat-mahmudul/chat-app" target="_blank" style="text-decoration: none; width: 300px; border: 2px solid #2d3748; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-    <img src="https://i.imgur.com/ChatAppMockup.png" alt="Chat Application" width="100%" height="200" style="object-fit: cover; border-bottom: 2px solid #2d3748;" />
-    <div style="padding: 15px; background-color: #2d3748; color: white; text-align: center; border-radius: 0 0 15px 15px;">
-      <h3 style="margin-bottom: 10px; font-size: 1.5rem;">Chat Application</h3>
-      <p style="font-size: 1rem; margin-bottom: 15px;">A real-time chat application using WebSocket, Node.js, and MongoDB. Features real-time messaging, notifications, and group chats.</p>
-      <a href="https://github.com/rifat-mahmudul/chat-app" target="_blank" style="text-decoration: none; background-color: #38b2ac; padding: 8px 20px; color: white; border-radius: 5px; font-weight: bold;">Explore Code</a>
-    </div>
-  </a>
-
-  <!-- Card 3 -->
-  <a href="https://mahmudulhasanrifat.vercel.app" target="_blank" style="text-decoration: none; width: 300px; border: 2px solid #2d3748; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-    <img src="https://i.imgur.com/PortfolioMockup.png" alt="Portfolio Website" width="100%" height="200" style="object-fit: cover; border-bottom: 2px solid #2d3748;" />
-    <div style="padding: 15px; background-color: #2d3748; color: white; text-align: center; border-radius: 0 0 15px 15px;">
-      <h3 style="margin-bottom: 10px; font-size: 1.5rem;">Portfolio Website</h3>
-      <p style="font-size: 1rem; margin-bottom: 15px;">My personal portfolio showcasing my skills, projects, and achievements. Built with React.js and deployed on Vercel.</p>
-      <a href="https://mahmudulhasanrifat.vercel.app" target="_blank" style="text-decoration: none; background-color: #38b2ac; padding: 8px 20px; color: white; border-radius: 5px; font-weight: bold;">Visit Live</a>
-    </div>
-  </a>
-
-</div>
-
----
-
 ### 🧑‍💻 Status And Info
 - 🌱 Currently exploring advanced **React**, **Node.js**, and diving into **Microservices Architectures**.
 - 💬 Love discussing **JavaScript**, **Backend Architectures**, **Cloud Solutions**, and **Scalable Systems Design**.
@@ -84,16 +46,16 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 
 <div align="center">
   <a href="https://github.com/rifat-mahmudul">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-mahmudul&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-mahmudul&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=282c34&title_color=ff5733&icon_color=1f80e5" alt="GitHub Stats" width="400" style="border-radius: 10px;"/>
   </a>
   <a href="https://github.com/rifat-mahmudul">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-mahmudul&theme=transparent&hide_border=true" alt="GitHub Streak" width="400" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-mahmudul&theme=radical&hide_border=true&background=282c34&ring=ff5733" alt="GitHub Streak" width="400" style="border-radius: 10px;"/>
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/rifat-mahmudul">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-mahmudul&langs_count=8&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-mahmudul&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=282c34&title_color=ff5733&text_color=ffffff" alt="Top Languages" width="400" style="border-radius: 10px;"/>
   </a>
 </p>
 
