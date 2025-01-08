@@ -13,7 +13,6 @@
 
 ### <h1>🌟 Introduction</h1>
 
-<p>
 Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Developer** specializing in the **MERN Stack**. With a knack for building innovative and efficient web solutions, I thrive on solving complex coding challenges and crafting seamless user experiences. From designing modern frontends to architecting robust backend systems, I am deeply committed to delivering excellence in every line of code.
 
 My journey as a developer is driven by an insatiable curiosity and love for technology. I continuously push my boundaries, explore new tools, and stay updated with the latest trends in the tech world. Collaboration, creativity, and problem-solving are at the heart of my work, and I take pride in contributing to impactful projects.
@@ -21,7 +20,6 @@ My journey as a developer is driven by an insatiable curiosity and love for tech
 When I'm not coding, you'll find me brainstorming ideas for new apps, exploring cloud technologies, or diving into coding challenges just for fun! I'm always excited to connect with like-minded individuals and share knowledge within the vibrant tech community. 🚀
 
 Let's create something amazing together! 😊
-</p>
 
 ---
 
