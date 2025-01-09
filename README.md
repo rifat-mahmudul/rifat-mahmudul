@@ -92,16 +92,6 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 
 ---
 
-### 🏆 Achievements & Highlights
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rifat-mahmudul&theme=flat&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### 📈 GitHub Contribution Graph
 
 <p>
