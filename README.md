@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://i.ibb.co/BrhGvSG/1720521287271.jpg](https://ibb.co.com/D9sQNQp"><img src="https://i.ibb.co.com/T4ptZtL/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)" alt="Header Image" width="100%" height="300px" />
+  <img src="https://i.ibb.co.com/KX5mqgX/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png)">
 </p>
 
 ---
