@@ -117,7 +117,3 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 </p>
 
 ---
-
-<p align="center">
-  <em>“The journey of a thousand miles begins with a single step.” – Lao Tzu</em>
-</p>
