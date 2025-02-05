@@ -43,27 +43,6 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
   <img src="https://skillicons.dev/icons?i=html,css,js,react,express,firebase,nodejs,mongodb,git,linux,figma,tailwind&perline=9" alt="Skills" />
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/rifat-mahmudul">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-mahmudul&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-  </a>
-  <a href="https://github.com/rifat-mahmudul">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-mahmudul&theme=transparent&hide_border=true" alt="GitHub Streak" width="400" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/rifat-mahmudul">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-mahmudul&langs_count=8&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="400" />
-  </a>
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -87,6 +66,25 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
   </a>
   <a href="https://mahmudulhasanrifat.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/rifat-mahmudul">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-mahmudul&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+  </a>
+  <a href="https://github.com/rifat-mahmudul">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-mahmudul&theme=transparent&hide_border=true" alt="GitHub Streak" width="400" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/rifat-mahmudul">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-mahmudul&langs_count=8&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="400" />
   </a>
 </p>
 
