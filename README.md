@@ -8,9 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=45&lines=Crafting+Innovative+Web+Solutions;Full+Stack+Developer+%7C+MERN+Stack;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co.com/KX5mqgX/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png)">
-</p>
+<img src="https://i.ibb.co.com/KX5mqgX/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png)">
 
 ---
 
