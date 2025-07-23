@@ -38,7 +38,7 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 
 ### 🚀 Professional Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,firebase,nodejs,mongodb,git,linux,figma,tailwind&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,firebase,nodejs,express,mongodb,mongoose,git,linux,figma,tailwind&perline=9" alt="Skills" />
 </p>
 
 ### 🌐 Connect with Me
