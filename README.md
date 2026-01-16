@@ -25,9 +25,9 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 ---
 
 ### 🧑‍💻 Status And Info
-- 🌱 Currently exploring advanced **React**, **Node.js**, and diving into **Microservices Architectures**.
+- 🌱 Currently exploring advanced **Backend Technolgoy**, and diving into **Microservices Architectures**.
 - 💬 Love discussing **JavaScript**, **Backend Architectures**, **Cloud Solutions**, and **Scalable Systems Design**.
-- 📬 Reach me at **mahmudulhasanrifat220@gmail.com**
+- 📬 Reach me at **rifatmahmudul.dev@gmail.com**
 - 🎯 Fun fact: I solve coding problems for fun and love experimenting with **new technologies**.
 - 💡 Always curious to learn and implement cutting-edge tech in **real-world projects**.
 - 🌐 Strong believer in **open-source contributions** and enjoy collaborating with global developers.
@@ -38,7 +38,7 @@ Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Develo
 
 ### 🚀 Professional Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,firebase,nodejs,express,mongodb,git,linux,figma,tailwind&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nextauth,firebase,nodejs,express,mongodb,mongoose,prisma,socket.io,multer,cloudinary,git,github,linux,figma,tailwind,framermotion&perline=9" alt="Skills" />
 </p>
 
 ### 🌐 Connect with Me
