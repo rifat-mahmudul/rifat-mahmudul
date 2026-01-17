@@ -10,8 +10,6 @@
 
 <img src="https://i.ibb.co.com/JWhBSmrV/professional-banner.png" height="240px" width="1100px" >
 
----
-
 ### <h1>🌟 Introduction</h1>
 
 Hello there! 👋 I'm **Mahmudul Hasan Rifat**, a passionate **Full Stack Developer** specializing in the **MERN Stack**. With a knack for building innovative and efficient web solutions, I thrive on solving complex coding challenges and crafting seamless user experiences. From designing modern frontends to architecting robust backend systems, I am deeply committed to delivering excellence in every line of code.
